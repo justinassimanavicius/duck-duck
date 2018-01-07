@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Duck-duck", "Duck-duck\Duck-duck.csproj", "{82D3184E-1E6F-40C9-B24B-F28606BFD838}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "duck-duck-angular", "duck-duck-angular\duck-duck-angular.csproj", "{196E9F9C-CB4F-4293-AF9C-DBEE79888BE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duck-duck.Web", "Duck-duck.Web\Duck-duck.Web.csproj", "{A6C7A6DC-C883-4F6F-9945-3B39297FEB12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{82D3184E-1E6F-40C9-B24B-F28606BFD838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{82D3184E-1E6F-40C9-B24B-F28606BFD838}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{82D3184E-1E6F-40C9-B24B-F28606BFD838}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{82D3184E-1E6F-40C9-B24B-F28606BFD838}.Release|Any CPU.Build.0 = Release|Any CPU
-		{196E9F9C-CB4F-4293-AF9C-DBEE79888BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{196E9F9C-CB4F-4293-AF9C-DBEE79888BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{196E9F9C-CB4F-4293-AF9C-DBEE79888BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{196E9F9C-CB4F-4293-AF9C-DBEE79888BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C7A6DC-C883-4F6F-9945-3B39297FEB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C7A6DC-C883-4F6F-9945-3B39297FEB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C7A6DC-C883-4F6F-9945-3B39297FEB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C7A6DC-C883-4F6F-9945-3B39297FEB12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

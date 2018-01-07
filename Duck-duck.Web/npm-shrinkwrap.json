@@ -1,5 +1,5 @@
 {
-  "name": "duck_duck_angular",
+  "name": "Duck_duck.Web",
   "version": "0.0.0",
   "dependencies": {
     "@angular/animations": {

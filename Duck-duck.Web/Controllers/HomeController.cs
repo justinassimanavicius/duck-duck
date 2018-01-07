@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace duck_duck_angular.Controllers
+namespace Duck_duck.Web.Controllers
 {
     public class HomeController : Controller
     {

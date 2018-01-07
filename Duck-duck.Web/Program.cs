@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace duck_duck_angular
+namespace Duck_duck.Web
 {
     public class Program
     {
